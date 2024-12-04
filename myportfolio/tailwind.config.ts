@@ -13,7 +13,7 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
         primary: "var(--primary)",
-        card: "var(---card)",
+        card: "var(--card)",
       },
     },
   },

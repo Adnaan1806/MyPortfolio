@@ -9,10 +9,26 @@
     },
     {
         "name": "Kotlin",
-        "icon": "/lotlin_icon.png"
+        "icon": "/kotlin_icon.png"
     },
     {
-        "name": "Java",
-        "icon": "/java_icon.png"
+        "name": "Golang",
+        "icon": "/go_icon.png"
+    },
+    {
+        "name": "CSS",
+        "icon": "/css_icon.png"
+    },
+    {
+        "name": "Javascript",
+        "icon": "/js_icon.png"
+    },
+    {
+        "name": "HTML",
+        "icon": "/html_icon.png"
+    },
+    {
+        "name": "React JS",
+        "icon": "/react_icon.png"
     }
 ]

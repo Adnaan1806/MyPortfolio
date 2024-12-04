@@ -1,11 +1,15 @@
-import React from 'react'
+import React from "react";
 
+type Props = {
+  icon: string;
+  name: string;
+};
 
+const Skill = ({ icon, name }: Props) => {
+  return <div className="relative flex gap-2 p-2 border-primary border rounded-lg h-[46px]">
+    <img src={icon} alt={`${name} icon`} />
+    <p className="text-lg">{name}</p>
+  </div>;
+};
 
-const Skill = () => {
-  return (
-    <div>Skill</div>
-  )
-}
-
-export default Skill
+export default Skill;
