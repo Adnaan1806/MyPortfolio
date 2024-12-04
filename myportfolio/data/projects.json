@@ -1,0 +1,43 @@
+[
+    {
+      "thumbnail": "/weather_thumbnail.png",
+      "title": "Weather Dashboard",
+      "link": {
+        "label": "Weather.dash",
+        "url": "https://www.example.com"
+      },
+      "description": "A responsive web application that displays real-time weather updates for any location.",
+      "languageIcons": ["/css_icon.png", "/html_icon.png", "/js_icon.png"]
+    },
+    {
+      "thumbnail": "/ecommerce_thumbnail.png",
+      "title": "E-Commerce Platform",
+      "link": {
+        "label": "ShopEasy.com",
+        "url": "https://www.example.com"
+      },
+      "description": "An online shopping platform offering a seamless user experience with secure payment integration.",
+      "languageIcons": ["/go_icon.png", "/html_icon.png", "/js_icon.png"]
+    },
+    {
+      "thumbnail": "/blog_thumbnail.png",
+      "title": "Personal Blog",
+      "link": {
+        "label": "blogs.com",
+        "url": "https://www.example.com"
+      },
+      "description": "A blog platform for sharing thoughts, experiences, and tutorials with a user-friendly interface.",
+      "languageIcons": ["/kotlin_icon.png", "/js_icon.png"]
+    },
+    {
+      "thumbnail": "/task_thumbnail.png",
+      "title": "Task Management App",
+      "link": {
+        "label": "tasssks.com",
+        "url": "https://www.example.com"
+      },
+      "description": "A dynamic dashboard that visualizes financial data and provides actionable insights.",
+      "languageIcons": ["/react_icon.png", "/ts_icon.png"]
+    }
+  ]
+  
