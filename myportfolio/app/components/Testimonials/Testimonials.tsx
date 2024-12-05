@@ -13,7 +13,7 @@ const Testimonials = () => {
           highlightText="Testimonials"
         />
         <div className="w-full overflow-x-clip">
-          <div className="w-[1758px] sm:w-[2754px] flex items-stretch justify-start gap-[23px] pr-[23px] overflow-x-clip animate-scroll">
+          <div className="w-[1758px] sm:w-[2754px] flex items-stretch justify-start gap-[23px] pr-[23px] overflow-x-clip animate-scroll hover:[animation-play-state:paused]">
             {[...testimonials, ...testimonials].map((testimonial, id) => (
               <Testimonial
                 key={id}

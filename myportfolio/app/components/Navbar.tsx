@@ -2,6 +2,7 @@
 import classNames from "classnames";
 import React, { useCallback, useEffect, useState } from "react";
 import cn from "classnames";
+import Reveal from "./Reveal";
 
 const Navbar = () => {
   const [activeSection, setActiveSection] = useState("home");
@@ -35,6 +36,7 @@ const Navbar = () => {
           alt="menu icon"
         />
       </button>
+      <Reveal initialY={-20} duration={0.5}>
       <nav
         className={cn(
           "bg-background card-shadow p-3 rounded md:block duration-300 ease-in-out",
@@ -133,6 +135,7 @@ const Navbar = () => {
           </li>
         </ul>
       </nav>
+      </Reveal>
     </div>
   );
 };
