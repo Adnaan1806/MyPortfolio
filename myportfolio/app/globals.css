@@ -45,5 +45,7 @@ body {
     @apply bg-card p-5 rounded-lg card-shadow;
   }
 
-  
+  .contact-button{
+    @apply p-1.5 rounded-md card-shadow flex items-center justify-center w-8 h-8;
+  }
 }

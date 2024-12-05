@@ -4,6 +4,7 @@ import Skills from './Skills/Skills'
 import Projects from './Projects/Projects'
 import Testimonials from './Testimonials/Testimonials'
 import Experiences from './Experiences/Experiences'
+import Contact from './Contact'
 
 
 
@@ -15,6 +16,7 @@ const Sections = () => {
         <Projects />
         <Testimonials />
         <Experiences />
+        <Contact />
     </main>
   )
 }
