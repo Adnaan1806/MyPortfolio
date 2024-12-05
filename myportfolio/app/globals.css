@@ -44,4 +44,6 @@ body {
   .card{
     @apply bg-card p-5 rounded-lg card-shadow;
   }
+
+  
 }

@@ -1,0 +1,20 @@
+[
+    {
+        "image": "/user_1.png",
+        "name": "Ben Lee",
+        "role": "Senior Software Engineer @ Calalog io",
+        "description": "Even as a junior developer, Ben was always willing to help and share his knowledge with the team. He has a great attitude and is a team player. I would highly recommend Ben for any software development role."
+    },
+    {
+        "image": "/user_2.png",
+        "name": "Sophia Carter",
+        "role": "Product Manager @ Tech Horizon",
+        "description": "Sophia is an exceptional product manager with a clear vision for every project she oversees. Her ability to align cross-functional teams and deliver products that exceed expectations makes her a true asset to any organization."
+    },
+    {
+        "image": "/user_3.png",
+        "name": "David Kim",
+        "role": "Data Scientist @ AI Innovate",
+        "description": "David's analytical skills and deep understanding of machine learning are second to none. His contributions have consistently led to actionable insights and impactful solutions. A top-notch professional in the data science field."
+    }
+]
