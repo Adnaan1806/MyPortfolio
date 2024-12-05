@@ -1,0 +1,23 @@
+[
+    {
+        "image": "/company_1.png",
+        "company": "Company 1",
+        "role": "Software Developer",
+        "description": "Currently developing and maintaining scalable web applications, collaborating with cross-functional teams to deliver high-quality software solutions, and improving system performance.",
+        "dates": "2023 - Present"
+    },
+    {
+        "image": "/company_2.png",
+        "company": "Company 2",
+        "role": "Intern - Web Development",
+        "description": "Worked on building and maintaining responsive web pages and collaborated with senior developers to improve website performance.",
+        "dates": "2022 - 2023"
+    },
+    {
+        "image": "/company_3.png",
+        "company": "Company 3",
+        "role": "Junior Software Engineer",
+        "description": "Contributed to the development of backend APIs and optimized existing systems for better scalability and performance.",
+        "dates": "2021 - 2022"
+    }
+]

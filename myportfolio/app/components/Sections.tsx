@@ -3,6 +3,7 @@ import Hero from './Hero/Hero'
 import Skills from './Skills/Skills'
 import Projects from './Projects/Projects'
 import Testimonials from './Testimonials/Testimonials'
+import Experiences from './Experiences/Experiences'
 
 
 
@@ -13,6 +14,7 @@ const Sections = () => {
         <Skills />
         <Projects />
         <Testimonials />
+        <Experiences />
     </main>
   )
 }
